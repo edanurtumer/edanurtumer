@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: edanurtumer98@gmail.com
+ 🌱 I’m currently learning Java
+ 📫 How to reach me: edanurtumer98@gmail.com
